@@ -1,0 +1,32 @@
+.page-wrap
+{
+    width: 950px;
+    height: auto;
+}
+
+.list li,a,ul
+{
+    display: inline;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 20px;
+    background-color:aqua;
+    border-image-width: 250px;
+
+}
+
+.list li,a:hover
+{
+    color:beige;
+
+}
+.list
+{
+    background-color: coral;
+    margin-left: 30px;
+    height:50;
+}
+.p
+{
+    background- color: aqua;
+}
